@@ -1,6 +1,9 @@
 # TodoAppSQLite
 Application flutter mobile de todo list avec l'utilisation de SQLite
 
+Comprend un page d'accueil avec la list de toute les tâches avec un bouton qui renvoyant sur le formulaire de création.
+Possibilité de modifier en maintenant appuyé sur un todo ainsi que de supprimer en swipant d'un côté ou de l'autre.
+
 # Procédure d’installation:
 -	Lancer un invité de commande et se placer dans un dossier
 -	Taper git clone https://github.com/Yvelin-officiel/TodoAppSQLite.git
